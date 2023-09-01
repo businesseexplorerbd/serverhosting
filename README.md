@@ -58,6 +58,7 @@ project and contact information.
     NAT.
 *   [Aruba Cloud](https://www.arubacloud.com)  
 *   [Atlantic.Net](https://atlantic.net)
+*   [BDWEB IT](https://bdwebit.com)
 *   [BinaryLane](https://www.binarylane.com.au)
 *   [Binary Racks](https://www.binaryracks.com)
 *   [BuyVM](https://buyvm.net)
@@ -141,6 +142,7 @@ project and contact information.
 *   [Oracle Cloud](https://cloud.oracle.com)  
     NAT, no Debian templates.
 *   [OVH](https://www.ovh.com)
+*   [Oudel Inc](https://oudel.com)
 *   [Pajo Servers](https://pajo-servers.com)  
     No IPv6.
 *   [PerfectIP](https://www.perfectip.net/)
@@ -153,6 +155,7 @@ project and contact information.
 *   [Sentris](http://sentris.com)  
     No IPv6.
 *   [ServaRICA](https://servarica.com)
+*   [SMTPBD](https://smtpbd.com)
 *   [Server.UA](https://server.ua)
 *   [ServerAstra](https://serverastra.com)
 *   [ServerHost](https://serverhost.com)  
